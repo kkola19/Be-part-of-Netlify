@@ -1,0 +1,1 @@
+I create my site by using an open source site generator StaticGen that can be deployed to Netlify and allows modern static website generation. Phenomic which is based on Javascript was the tool used to generate this site because it simply allow a dynamic deployment of sites to Netlify platform with ease to use.
